@@ -1,0 +1,26 @@
+{
+  "name": "diplomado",
+  "version": "1.0.0",
+  "description": "Diplomado de Ivan Manuel Romero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manny412imrg/DiplomadoIMRG.git"
+  },
+  "author": "Ivan Manuel Romero Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manny412imrg/DiplomadoIMRG/issues"
+  },
+  "homepage": "https://github.com/manny412imrg/DiplomadoIMRG#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "mongodb": "^3.6.3"
+  }
+}
